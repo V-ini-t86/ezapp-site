@@ -66,6 +66,7 @@ nav > ul > li a {
   font-size: 40px;
   font-weight: bolder;
   /* color: linear-gradient(, ); */
+  margin-left: 10px;
   background: -webkit-linear-gradient(#22fb8c, #0db2e5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

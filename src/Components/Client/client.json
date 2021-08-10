@@ -162,6 +162,26 @@
         "rating": 5,
         "title": "We found their team had good experience",
         "content": "We hired Ezapp Solution with effective screening of 7 Software development agencies. We found their team had good experience building Education portals plus they offered us flexible and serverless architecture. Their team was able to build streaming serving using AWS Firehouse. We recommend them to those Entrepreneurs who are looking for a build robust and scalable Education platform using AWS and Machine Learning."
+      },
+      {
+        "id": 4,
+        "name": "Ashutosh Tyagi",
+        "rating": 5,
+        "title": "We found their team had good experience",
+        "content": "We hired Ezapp Solution with effective screening of 7 Software development agencies. We found their team had good experience building Education portals plus they offered us flexible and serverless architecture. Their team was able to build streaming serving using AWS Firehouse. We recommend them to those Entrepreneurs who are looking for a build robust and scalable Education platform using AWS and Machine Learning."
+      }
+    ]
+  },
+  "expertise": {
+    "id": 5,
+    "website": "experties",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Ashutosh Tyagi",
+        "rating": 5,
+        "title": "We found their team had good experience",
+        "content": "We hired Ezapp Solution with effective screening of 7 Software development agencies. We found their team had good experience building Education portals plus they offered us flexible and serverless architecture. Their team was able to build streaming serving using AWS Firehouse. We recommend them to those Entrepreneurs who are looking for a build robust and scalable Education platform using AWS and Machine Learning."
       }
     ]
   }

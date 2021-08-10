@@ -5,6 +5,7 @@ import trustfirms from "./Images/TrustFirms.png";
 import TrustPilot from "./Images/logo-white.svg";
 import blackTransparent from "./Images/blackTransparent.svg";
 import Goodfirms from "./Images/goodfirms-blue.svg";
+// import Bark from "./Images/barklogo-dark.png";
 import Bark from "./Images/barklogo-dark.png";
 import SEM from "./Images/Logo_sem.png";
 import TopD from "./Images/top_developers.svg";
@@ -40,9 +41,10 @@ function Client() {
         <Link to={`${url}/goodfirms`}>
           <Card src={Goodfirms} alt="GF" />
         </Link>
-        {/* <Link to={`${url}/bark`}>
-          <Card src={Bark} alt="Bark" />
-        </Link> */}
+        <Link>
+          <Card src={Bark} alt="sem" />
+        </Link>
+
         <Link to={`${url}/semfirms`}>
           <Card src={SEM} alt="sem" />
         </Link>

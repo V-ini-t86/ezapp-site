@@ -13,7 +13,6 @@ function Footer() {
           Ezappsolution
         </a>
         <h4>Email: support@ezappsolution.us</h4>
-        <h4>Phone : (347)217-8839</h4>
       </div>
       <div className={classes.connectWithUs}>
         <p>Connect with us</p>

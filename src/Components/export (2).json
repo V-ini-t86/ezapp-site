@@ -1,0 +1,18 @@
+{
+  "consumer": {
+    "displayName": "Gaurav Shandilya",
+    "email": "support@ezappsolution.us",
+    "gender": null,
+    "city": null,
+    "country": "IN",
+    "locale": "en-US",
+    "imageUrls": {
+      "small": "//user-images.trustpilot.com/default/v1/35x35.png",
+      "large": "//user-images.trustpilot.com/default/v1/73x73.png"
+    },
+    "signupIp": "42.105.114.208",
+    "signupDateTime": "2021-07-07T14:25:44Z"
+  },
+  "serviceReviews": [],
+  "productReviews": []
+}
