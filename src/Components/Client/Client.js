@@ -37,7 +37,7 @@ function Client() {
           <Card src={trustfirms} alt="tf" />
         </Link> */}
         <Link to={`${url}/trust-pilot`}>
-          <Card src={TrustPilot} alt="TR" bc="gray" />
+          <Card src={TrustPilot} alt="TR" bc="black" />
         </Link>
         {/* <Link to={`${url}/wadline`}>
           <Card src={blackTransparent} alt="bt" />
