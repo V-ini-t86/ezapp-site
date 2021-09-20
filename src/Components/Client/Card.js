@@ -7,7 +7,7 @@ function Card(props) {
       className={classes.card}
       style={props.bc && { backgroundColor: props.bc }}
     >
-      <img src={props.src} alt={props.alt} />
+      <img className={classes.img} src={props.src} alt={props.alt} />
     </div>
   );
 }

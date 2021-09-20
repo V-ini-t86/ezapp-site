@@ -184,5 +184,423 @@
         "content": "We hired Ezapp Solution with effective screening of 7 Software development agencies. We found their team had good experience building Education portals plus they offered us flexible and serverless architecture. Their team was able to build streaming serving using AWS Firehouse. We recommend them to those Entrepreneurs who are looking for a build robust and scalable Education platform using AWS and Machine Learning."
       }
     ]
+  },
+  "glassdoor": {
+    "id": 6,
+    "website": "Glassdoor",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Software Engineer in Mumbai",
+        "rating": 5,
+        "date": "28 may ",
+        "title": "Nice work culture",
+        "content": "Pros: I liked the work culture and work life balance about Ezapp Solution. Shifts are flexible and Working from home is going on good so far. Cons:Nothing much. It's a great place to work."
+      },
+      {
+        "id": 2,
+        "name": " Software Developer in Dehradun",
+        "rating": 4,
+        "date": "22 august ",
+        "title": "software service",
+        "content": "pros: Working at Ezapp is an experience to count on. Developers are given Freedom of work and most importantly Sr Managers give assignment based on the AI Workforce tool so it is always good to work on most interesting and matching projects.cons:Ezapp is exceptional software company as they do not compromise on quality of the product for any change management. So it is difficult to find any cons as per the project "
+      },
+      {
+        "id": 3,
+        "name": " Senior Software Developer (Java) in New Delhi",
+        "rating": 5,
+        "date": "26 march ",
+        "title": "Great company",
+        "content": "Pros: 1. Chilled out work environment, good work life balance (depends on projects though) 2. Pretty good work culture with helpful and friendly colleagues. Cons :Growth is slow in general but if you are proactive, you can reap the results"
+      },
+      {
+        "id": 4,
+        "name": "Applications Engineer in New Delhi ",
+        "rating": 5,
+        "date": "26 march ",
+        "title": "very good company",
+        "content": "Pros:Work culture is decent and good work-life balance in most of the projects. There are ample opportunities across skills and domains and if one is interested and can work proactively towards it options like career transition are pretty much possible. Cons:Not yet at this time"
+      },
+      {
+        "id": 5,
+        "name": "Digital Marketing Specialist in Gurgaon, Haryana, ",
+        "rating": 5,
+        "date": "24 march ",
+        "title": "software solutions",
+        "content": "pros: Best, Good hikes, corporate lifestyle, workaholic with funcons:Nothing, all is good. Not found any Cons"
+      },
+      {
+        "id": 6,
+        "name": " Account Executive in New Delhi",
+        "rating": 5,
+        "date": "23 march ",
+        "title": "Top enterprise software development company",
+        "content": "pros:Frequent appraisal and trainings for learning new technologies cons:Hard work required to stay in the company"
+      },
+      {
+        "id": 7,
+        "name": " Software Developer in Gurgaon, Haryana, Haryana",
+        "rating": 5,
+        "date": "23 march ",
+        "title": "very good company",
+        "content": "pros:I liked the work culture and work life balance about Ezapp Solution. Shifts are flexible and Working from home is going on good so far.. Great working environment with employee friendly policies. cons:Nothing much. It's a great place to work."
+      },
+      {
+        "id": 8,
+        "name": "Applications Developer Associate in Chennai",
+        "rating": 5,
+        "date": "23 march ",
+        "title": "i feel privileged while working in the company",
+        "content": "pros:Work culture is decent and good work-life balance in most of the projects. There are ample opportunities across skills and domains and if one is interested and can work proactively towards it options like career transition are pretty much possible. cons:Nothing as such. Everything is perfect."
+      },
+      {
+        "id": 9,
+        "name": "Technical Engineer in Gurgaon, Haryana, Haryana ",
+        "rating": 5,
+        "date": "15 march ",
+        "title": "productive and nice place to work",
+        "content": "pros:I am a Software engineer at Ezappsolution.I worked for one such great Company Ezapp Solution. Right from the beginning. I am very comfortable working there with those cooperative working hours and satisfying payroll. cons:Nothing much. It's a great place to work."
+      },
+      {
+        "id": 10,
+        "name": "Software Engineer in Noida",
+        "rating": 5,
+        "date": "16 march ",
+        "title": "best company to start your career",
+        "content": "pros:I am a Technical Engineer at Ezapp Soution. Great working environment with employee friendly policies. Professional and cooperative nature of the senior teamsmakes the work easy with no pressure. So its reliable to work here. cons:not yet at this time"
+      },
+      {
+        "id": 11,
+        "name": "Chat Bot Developer in New Delhi ",
+        "rating": 5,
+        "date": "2 march ",
+        "title": "creativity and innovation driven company",
+        "content": "pros:I am a Chat bot Developer at Ezapp Solution and I have worked on Projects for Ezapp. Highly cooperative behavior of the colleagues. I learned that only quality of work with passion. Managers are helpful and understands your situation. Work life balance is there. Creativity and Innovation driven company. Good incentives and flexible work hours. cons:not yet at this time"
+      },
+      {
+        "id": 12,
+        "name": "Manager in New Delhi ",
+        "rating": 5,
+        "date": "2 march ",
+        "title": "highly productive and cooperative firm",
+        "content": "pros:extremely productive and cooperative team. Minute details and explanations before any new project is given to the employees . Flexible working hours cons:There is no such cons, working at ezapp but sometimes work speed gets slower due to the briefing before any new project"
+      },
+      {
+        "id": 13,
+        "name": "project coordinator in new delhi ",
+        "rating": 5,
+        "date": "2 march ",
+        "title": "great management team and helpful teammates.very profesional as well as cooperative attitude of colleafues",
+        "content": "pros:flexibility in working hours. Excellent team cooperatio cons:Little delayed response from colleagues"
+      },
+      {
+        "id": 14,
+        "name": " Cloud Support Engineer in New Delhi",
+        "rating": 5,
+        "date": "28 feb ",
+        "title": "productive and friendly",
+        "content": "pros:I am a Cloud Associate at EzappSolution and I have worked on Projects for various Fortune companies. I am delighted that I got the Opportunity to work with professional people and we used Data Lake Snowflake, DataBricks tools to do the Data pipelines and Reporting on Microsoft Azure and AWS. All this was a good experience for me and for my growth. cons:not yet"
+      },
+      {
+        "id": 15,
+        "name": "data analyst in new delhi ",
+        "rating": 5,
+        "date": "26 feb ",
+        "title": "i feel privileged while working with the ezapp solution.",
+        "content": "prosI feel privileged while working with the company. my team leader and coworkers help me to groom.I enjoy working with it. I saw many changes inside me and I have improved my skills. The ezappsolution team learn that work done in a way no one can do it: cons:not yet"
+      },
+      {
+        "id": 16,
+        "name": " Tax Consultant in New Delhi",
+        "rating": 5,
+        "date": "25 feb ",
+        "title": "great place to work",
+        "content": "pros:Highly cooperative behavior of the colleagues. Creativity and Innovation driven company. Good incentives and flexible work hours. Ezaap as there was a lot of support. Company work toward the growth of the company along with its employees. cons:Nothing Ezapp Solution is perfect company"
+      },
+      {
+        "id": 17,
+        "name": " Software Engineer in New Delhi",
+        "rating": 5,
+        "date": "25 feb ",
+        "title": "great place to work",
+        "content": "pros:Great Place to Work truly justifies this company. Managers are helpful and understands your situation. I just completed working on AI project and it was such a good experience better than working for an MNC. I have recommended my friends for various positions at Ezapp. cons:not yet"
+      },
+      {
+        "id": 18,
+        "name": " Machine Learning Engineer in New Delhi ",
+        "rating": 5,
+        "date": " 26 feb ",
+        "title": "Productive and Nice work place",
+        "content": "pros:I am a Machine learning Engineer at EzappSolution and I have worked on Projects for various Fortune companies. I am delighted that I got the Opportunity to work with professional people. The ezappsolution team learn that work done in a way no one can do it cons:not yet"
+      },
+      {
+        "id": 19,
+        "name": " Data Scientist in New Delhi",
+        "rating": 5,
+        "date": "26 feb ",
+        "title": "best company to start your career",
+        "content": "pros:I am a Data Scientist at Ezappsolution.I love my work, Ezappsolution provide me a best platform. I feel privileged while working with the company. product delivery center of Ezapp solution is one of the best in the country. I am happy working on projects for US clients and my learning curve has been steep with variety of projects that I have worked on machine learning. cons:nothing much"
+      },
+      {
+        "id": 20,
+        "name": " Assistant Systems Engineer in New Delhi ",
+        "rating": 5,
+        "date": " 24 feb ",
+        "title": "very good comapny to work",
+        "content": "prosI have been working at ezapp full time. Lots of smart people to work. Good culture and mentor. It is a very good company. Always care of their employees, Great Manager, fabulous facilities. cons:not yet"
+      },
+      {
+        "id": 21,
+        "name": " project engineer in new delhi",
+        "rating": 5,
+        "date": " feb ",
+        "title": "one of the best company",
+        "content": "pros:Learning opportunity, work life balance, good management, good benefits, goodies, food, awesome office consNothing much cons, work life balance:"
+      },
+      {
+        "id": 22,
+        "name": "accountant in new delhi ",
+        "rating": 5,
+        "date": " 24 feb ",
+        "title": "my experience in the comapny is very good",
+        "content": "pros:My experience at the company is very good. Everyone is very cooperative. Great place to work. I learned that only quality of work with passion I enjoyed my work at ezapp cons:none"
+      },
+      {
+        "id": 23,
+        "name": "Data Analytics in Noida ",
+        "rating": 5,
+        "date": "23 feb ",
+        "title": "great comapny",
+        "content": "pros:I have been working at ezapp full time. Lots of smart people to work. If you love tech, this is a great place. Good culture and mentor. Very good atmosphere in the workplace. Many opportunities inside the company to learn and grow. Always care of their employees, Great Manager, fabulous facilities cons:none"
+      },
+      {
+        "id": 24,
+        "name": " data analyst in new delhi",
+        "rating": 5,
+        "date": " 22 feb ",
+        "title": "great working environment",
+        "content": "pros: the company is open to innovation and readily adopts latest technology. Great Place to Work truly justifies this company. Managers are helpful and understands your problems.Ezapp Solution is such a wonderful Company. Amazing Cares of their employees. cons:I did not find any difficulty here. "
+      },
+      {
+        "id": 25,
+        "name": " Programmer Analyst in New Delhi",
+        "rating": 5,
+        "date": "20 feb ",
+        "title": "great place to work",
+        "content": "pros:The Management and team in my experience has been great! You have weekly 1 on 1s with your managers and they are always extremely attentive to your progress as well as grievances. If you need help, you just have to ask. Ezapp Solution is such a wonderful Company. Amazing Cares of their employees. cons:none"
+      },
+      {
+        "id": 26,
+        "name": " Junior Data Engineer in New Delh ",
+        "rating": 5,
+        "date": " 20 feb ",
+        "title": "Wonderful Company",
+        "content": "pros:Amazing care for their employees. If you love tech, It is great place cons:none "
+      },
+      {
+        "id": 27,
+        "name": "Senior PHP Developer in Mumbai",
+        "rating": 5,
+        "date": " feb ",
+        "title": "dream company",
+        "content": "pros:Motivating, timely salary payment, positive work culture cons:Sometimes excess workload and overtime"
+      },
+      {
+        "id": 28,
+        "name": "Senior Software Developer ",
+        "rating": 5,
+        "date": "20 feb ",
+        "title": " dream tech giant",
+        "content": " prosAptly paid, Positive work culture cons:Sometime excess work load and overtime"
+      },
+      {
+        "id": 29,
+        "name": "Programmer Analyst in New Delhi",
+
+        "rating": 5,
+        "date": "20 feb ",
+        "title": " great place to work",
+        "content": "The Management and team in my experience has been great! You have weekly 1 on 1s with your managers and they are always extremely attentive to your progress as well as grievances. If you need help, you just have to ask. Ezapp Solution is such a wonderful Company. Amazing Cares of their employees. "
+      },
+      {
+        "id": 30,
+        "name": "Project Manager in New Delhi",
+        "rating": 5,
+        "date": "17 feb ",
+        "title": "work life at ezapp solutions ",
+        "content": "Working with them is really great, the company provides a healthy work environment. The team is co-operative, and they are open to new ideas, we don't feel any stress working with them. They motivates us to do our best and reach our goals. "
+      },
+      {
+        "id": 31,
+        "name": " Project Lead in New Delhi",
+        "rating": 4,
+        "date": "2 march ",
+        "title": " cooperative behaviour and helpful environment",
+        "content": " Cooperative behaviour of colleagues and teammates , good decision making skills, no work pressure with flexible working hours, Incentives for extra work is given cons:A little push to junior must be given"
+      },
+      {
+        "id": 32,
+        "name": " Anonymous Employee in New Delhi",
+        "rating": 5,
+        "date": " 14 feb ",
+        "title": "wide area of expertise ",
+        "content": " pros Highly cooperative behaviour of colleagues. Flexible work hours with commensurate stipend and good value incentives.consExcellent creativity and innovation driven heads keeps you busy and tightly scheduled up"
+      },
+      {
+        "id": 33,
+        "name": "Data Scientist Intern ",
+        "rating": 5,
+        "date": " 21 feb ",
+        "title": " great comapny to work with",
+        "content": " pros:Good infrastructure Good work life balance Good team work People and management is very nice. consnothing as such...everything is good:"
+      },
+      {
+        "id": 34,
+        "name": "Software Development Engineer in Dehra Dūn",
+        "rating": 5,
+        "date": " 12 jan ",
+        "title": "great company culture ",
+        "content": "pros:Good Benifit Great employee relations cons:Not Discovered Yet For Now. "
+      },
+      {
+        "id": 35,
+        "name": "Software Engineer in Dehradun",
+        "rating": 5,
+        "date": " 11 jan ",
+        "title": "great opportunity for impactfull projects ",
+        "content": "pros: This is a great company to work for. cons:I have not found any cons."
+      },
+      {
+        "id": 36,
+        "name": "Manager in Chennai",
+        "rating": 5,
+        "date": " 5 dec ",
+        "title": " great culture and good environment",
+        "content": "pros:Very good company to work with and immense learning growth cons:i dont have any issues  "
+      },
+      {
+        "id": 37,
+        "name": "DataScientist in Gurgaon, Haryana, Haryana",
+        "rating": 5,
+        "date": " feb ",
+        "title": "top artificial intelligence company ",
+        "content": "pros:challenging projects to develop and great learning experience. cons:long working hours and at times pressure to deliver.  "
+      },
+      {
+        "id": 38,
+        "name": "data scientist in gurgaon ,haryana",
+        "rating": 5,
+        "date": " feb ",
+        "title": " Great Company to work",
+        "content": "pros:Excellent Work Environment, thriving for Results cons:Hard work and Accountability for all DataScientist to demonstrate"
+      },
+      {
+        "id": 39,
+        "name": "",
+        "rating": 5,
+        "date": " feb ",
+        "title": " ",
+        "content": "pros: cons:  "
+      },
+      {
+        "id": 40,
+        "name": "",
+        "rating": 5,
+        "date": " feb ",
+        "title": " ",
+        "content": "pros: cons:  "
+      }
+    ]
+  },
+  "sitejabber": {
+    "id": 7,
+    "website": "sitejabber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "somya s",
+        "rating": 5,
+        "title": "Best software development company.” ",
+        "content": "Ezapp is our preferred vendor for all our marketing solutions tool kit. We had to shortlist from 15 Different companies Ezapp as our Top pick as they had advanced Email Marketing Tool which Allowed us to use it for our Online Campaigns. We used Automated Email marketing tool for drip Marketing at fraction of cost compared to other Vendors. Solution provided by Ezapp was User Friendly and budget friendly too."
+      },
+      {
+        "id": 2,
+        "name": "yog s",
+        "rating": 5,
+        "title": " software development experts",
+        "content": "We are glad to use the Software development service of Ezapp Solution.Team was very professional to understand Business Requirements and deliver theWebsite+ custom built CRM tool for marketing. We have substantial growth of client, By using custom CRM tool integrated with Admin panel of Website. Highly Recommending Ezapp Solution for Marketing Analytics and Web development services."
+      },
+      {
+        "id": 3,
+        "name": "suruchi A",
+        "rating": 5,
+        "title": "analyst ",
+        "content": "Point of Sale System developed was as per Custom requirements. Ezapp Solution offered the completed solution for Desktop App and Tablet App that allowed us to cut the cost of development by 60%. We were provided additional support without any TMC. We were fully satisfied by the development and support of Ezappsolution."
+      },
+      {
+        "id": 4,
+        "name": "Preet G",
+        "rating": 5,
+        "title": " ",
+        "content": "We hired EzappSolution to perform the Cloud Migration on large datasets involving efforts to perform AWS Lambda, AWS GLUE, AWS ATHENA and AWS EC2. Team of EzappSolution was experienced to handle all ETLs in required format and deliver the transformation with correct values on AWS RedShift env from Sybase On-prem db.We are quite satisfied with the stellar performance of Database Architects and Data Engineers who made this project successful with all complicated business logics in very short period of time.EzappSolution is great company for Cloud Solutions and their experts are quite helpful to make the hard deadlines.Tip for consumers:Talented Team of Data engineers with experience on AWS lambda, AWS kinesis. Ezapp has great team for Cloud Migration projects.Products used: Shoes, jackets, belts, cosmetics, etc"
+      },
+      {
+        "id": 5,
+        "name": "ankit Y",
+        "rating": 5,
+        "title": "outstanding dvelopment service ",
+        "content": "An excellent and company that provides the best web development services at affordable prices. Ezappsolution is a rockstar development firm"
+      }
+    ]
+  },
+  "resellerratings": {
+    "id": 8,
+    "website": "ResellerRatings",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "shantunga",
+        "rating": 5,
+        "title": " developer retention issue for a small project",
+        "content": "I always had issue hiring developers from Freelancer websites as the developer will do the first project and then leave the other project in the middle. Based on the recommendation of my friend I ditched Freelancer Network and tried Ezapp Solution. They were able to do small projects less than 10k with full professionalism and delivered my projects always on time. My reliability has grown on impeccable note with Ezapp Solution. Great quality work all the time."
+      },
+      {
+        "id": 2,
+        "name": "bhavyagoel",
+        "rating": 5,
+        "title": "Custom Software Developer Agency ",
+        "content": "Getting IONIC developer in Utah was not easy. We scrambled to get the right developer for months. On google search we found Ezapp has ample IONIC developers and work quality was guaranteed. So, we tried them and it was good decision as we saved lot of money by outsourcing to Ezapp. Their developers are qualitative in deliverables as well as Professional."
+      },
+
+      {
+        "id": 3,
+        "name": "deepakkata",
+        "rating": 5,
+        "title": " The best App Development company",
+        "content": "The best App Development companies At the lowest rates. Ezapp has been around for more than a decade and Gives the overall best services. Several technologies and projects are in the works."
+      },
+
+      {
+        "id": 4,
+        "name": "awasthiaku",
+        "rating": 5,
+        "title": "APP Development",
+        "content": "Ezapp is the best software, App development company. Delivering success with every solution regarding the development of the online application"
+      },
+      {
+        "id": 5,
+        "name": "saloni garg",
+        "rating": 5,
+        "title": " remote hire",
+        "content": "We hired remote developer from Ezapp for our Inhouse project. We did not had to go through the entire hiring process as it was already done by Ezapp. Best part was that we did not had to to post Jobs on Dice, Glassdoor, Monster and other job boards and then hire HR to manage the position. We are glad that for just $18/hr we were able to source Senior Python developer and the developer was well versed in Django and Flask framework to manage all the backend development.We definitely recommend Ezapp Solution for hiring Remote developers."
+      },
+      {
+        "id": 6,
+        "name": " rakh imakhi",
+        "rating": 5,
+        "title": "Enterprise app development for SME. ",
+        "content": "Development of Enterprise Product required more than 30 API Integrations and expertise of Fintech. We shortlisted 2 Vendors out of 50 Companies on Manifest. We found Ezapp team only have technical expertize in fact their team is savvy on the Finance domain with knowledge Ledger Systems, Accounting Standards like IFRS, Payments Settlements for Nostro Account, Regulatory Reporting. Analyzing all the metrics, we were delighted to work with Ezapp Solution."
+      }
+    ]
   }
 }

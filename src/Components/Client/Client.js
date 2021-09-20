@@ -5,9 +5,13 @@ import trustfirms from "./Images/TrustFirms.png";
 import TrustPilot from "./Images/logo-white.svg";
 import blackTransparent from "./Images/blackTransparent.svg";
 import Goodfirms from "./Images/goodfirms-blue.svg";
+import sitejabber from "./Images/sitejabber.png";
 // import Bark from "./Images/barklogo-dark.png";
 import Bark from "./Images/barklogo-dark.png";
 import SEM from "./Images/Logo_sem.png";
+import glassdoor from "./Images/glassdoor.png";
+import reseller from "./Images/reseller.svg";
+
 import TopD from "./Images/top_developers.svg";
 import Card from "./Card";
 import classes from "./Card.module.css";
@@ -33,7 +37,7 @@ function Client() {
           <Card src={trustfirms} alt="tf" />
         </Link> */}
         <Link to={`${url}/trust-pilot`}>
-          <Card src={TrustPilot} alt="TR" bc="#eaeaea" />
+          <Card src={TrustPilot} alt="TR" bc="gray" />
         </Link>
         {/* <Link to={`${url}/wadline`}>
           <Card src={blackTransparent} alt="bt" />
@@ -44,12 +48,20 @@ function Client() {
         <Link>
           <Card src={Bark} alt="sem" />
         </Link>
-
+        <Link to={`${url}/glassdoor`}>
+          <Card src={glassdoor} alt="gsd" />
+        </Link>
         <Link to={`${url}/semfirms`}>
           <Card src={SEM} alt="sem" />
         </Link>
         <Link to={`${url}/topdevelopers`}>
           <Card src={TopD} alt="top" />
+        </Link>
+        <Link to={`${url}/sitejabber`}>
+          <Card src={sitejabber} alt="site-jabber" bc="blue" />
+        </Link>
+        <Link to={`${url}/resellerratings`}>
+          <Card src={reseller} alt="site-jabber" />
         </Link>
       </div>
       <Switch>
